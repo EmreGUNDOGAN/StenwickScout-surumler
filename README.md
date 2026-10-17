@@ -6,7 +6,7 @@ Steam keşfi, kişisel kanal analizi, anahtar talepleri ve yayın planı için y
 
 ## Windows kurulumu
 
-Releases sayfasından `StenwickScout-Setup-0.4.6.exe` ve istersen `.exe.sha256` dosyasını indir. Eski taşınabilir programı kapat, kurulumu aç ve Başlat menüsünden Stenwick Scout'u çalıştır. Python ayrıca kurulmaz. Arayüz `http://127.0.0.1:8765/` adresinde açılır.
+Releases sayfasından `StenwickScout-Setup-0.4.7.exe` ve istersen `.exe.sha256` dosyasını indir. Eski taşınabilir programı kapat, kurulumu aç ve Başlat menüsünden Stenwick Scout'u çalıştır. Python ayrıca kurulmaz. Arayüz `http://127.0.0.1:8765/` adresinde açılır.
 
 Program dosyaları Program Files altında; verilerin `%APPDATA%\StenwickScout` klasöründedir. Kurulum ve kaldırma kullanıcı verilerini silmez. Daha önce bu klasöre taşınmış Google bağlantıları aynı Windows hesabıyla kullanılabilir.
 
