@@ -1,13 +1,19 @@
-# Stenwick Scout — özel sürümler
+# Stenwick Scout — Windows sürümleri
 
-Bu depo **private**. Kurulum ve SHA-256 dosyalarına erişmek için yetkili GitHub hesabıyla giriş gerekir. Kaynak kod deposu da özeldir.
+[**En son sürümü indir →**](https://github.com/EmreGUNDOGAN/StenwickScout-surumler/releases/latest)
 
-## v0.4.5
+Bu depo yalnız kurulum dosyalarını, SHA-256 kayıtlarını ve sürüm notlarını herkese açık sunar. Stenwick Scout'un kaynak kod deposu **private** kalır.
 
-Releases sayfasından `StenwickScout-Setup-0.4.5.exe` ve `.exe.sha256` dosyasını indir. Program verileri `%APPDATA%\StenwickScout` içinde korunur. Kurulum/kaldırma bu klasöre erişmez.
+## Kurulum
 
-Güncelleme kontrolü minimal bir satırdır: sürüm, durum, son kontrol, **Kontrol et**, bilgi simgesi. Kontrol kurulum indirmez. Mevcut uygulama GitHub token'ı içermediği için özel depodan güncelleme bilgisi alamaz. Bu sürüme yeni erişim/kimlik doğrulama sistemi eklenmedi; setup'ı GitHub oturumunla indir.
+Release sayfasından `StenwickScout-Setup-0.4.5.exe` ve istersen `.exe.sha256` dosyasını indir. Program verileri `%APPDATA%\StenwickScout` içinde saklanır; kurulum ve kaldırma bu klasöre erişmez.
 
-Sürümün tam değişiklik listesi ve doğrulama sınırları release açıklamasındadır. Kurulum imzasızdır.
+## Güncellemeler
+
+Ayarlar'daki **Kontrol et** düğmesi en yeni sürümü anahtarsız sorgular. Kontrol etmek kurulum indirmez; yeni sürümü kurmak için ayrıca onay gerekir. Açık sürüm deposu için GitHub hesabı veya program içinde token gerekmez.
+
+17 Ekim 2026'da depo geçmişi ve v0.4.2–v0.4.5 paketleri gizli bilgi açısından tarandı. API anahtarları, Google OAuth dosyaları ve kullanıcı veritabanı bulunmadı. Bu tarama bütün güvenlik açıklarının olmadığına dair garanti değildir. Uygulama kodu setup'tan teknik olarak incelenebilir; kişisel anahtarlar pakette tutulmaz.
+
+Kurulum imzasızdır. Özellikler ve doğrulama sınırları her release açıklamasında yer alır.
 
 made with ♥ by stenwick
