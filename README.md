@@ -1,23 +1,13 @@
-<p align="center"><strong>STENWICK SCOUT</strong><br>Bir sonraki oyununu bul.</p>
+# Stenwick Scout — özel sürümler
 
-<p align="center"><a href="https://github.com/EmreGUNDOGAN/StenwickScout-surumler/releases/latest"><strong>Windows için indir ↓</strong></a></p>
+Bu depo **private**. Kurulum ve SHA-256 dosyalarına erişmek için yetkili GitHub hesabıyla giriş gerekir. Kaynak kod deposu da özeldir.
 
-Steam keşfi, kişisel kanal analizi, anahtar talepleri ve yayın planı için yerel çalışma alanı.
+## v0.4.5
 
-## Windows kurulumu
+Releases sayfasından `StenwickScout-Setup-0.4.5.exe` ve `.exe.sha256` dosyasını indir. Program verileri `%APPDATA%\StenwickScout` içinde korunur. Kurulum/kaldırma bu klasöre erişmez.
 
-Releases sayfasından `StenwickScout-Setup-0.4.4.exe` ve istersen `.exe.sha256` dosyasını indir. Eski taşınabilir programı kapat, kurulumu aç ve Başlat menüsünden Stenwick Scout'u çalıştır. Python ayrıca kurulmaz. Arayüz `http://127.0.0.1:8765/` adresinde açılır.
+Güncelleme kontrolü minimal bir satırdır: sürüm, durum, son kontrol, **Kontrol et**, bilgi simgesi. Kontrol kurulum indirmez. Mevcut uygulama GitHub token'ı içermediği için özel depodan güncelleme bilgisi alamaz. Bu sürüme yeni erişim/kimlik doğrulama sistemi eklenmedi; setup'ı GitHub oturumunla indir.
 
-Program dosyaları Program Files altında; verilerin `%APPDATA%\StenwickScout` klasöründedir. Kurulum ve kaldırma kullanıcı verilerini silmez. Daha önce bu klasöre taşınmış Google bağlantıları aynı Windows hesabıyla kullanılabilir.
+Sürümün tam değişiklik listesi ve doğrulama sınırları release açıklamasındadır. Kurulum imzasızdır.
 
-## Güncellemeler
-
-Yeni sürüm Ayarlar yanında görünür. **Güncelle** demeden kurulum indirilmez. Onaydan sonra önce yedek alınır; kurulum SHA-256 ile doğrulanır. Kurulum yönetici izni ister ve uygulamayı yeniden açar. Yenile sürerken güncelleme başlamaz.
-
-## Bu depo
-
-Bu depo kurulum dosyalarını, SHA-256 kayıtlarını ve sürüm açıklamalarını yayınlar. Kaynak kod deposu özeldir. GitHub token'ı, Google erişim dosyaları veya kullanıcı veritabanı bu depoya konmaz. Uygulamanın güncelleme kontrolü GitHub hesabı gerektirmez.
-
-Kurulum imzasızdır; Windows yayıncıyı doğrulayamaz. Sürümün özellikleri ve doğrulama sınırları release açıklamasındadır.
-
-<p align="center">made with ♥ by stenwick</p>
+made with ♥ by stenwick
