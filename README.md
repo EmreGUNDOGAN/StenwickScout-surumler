@@ -1,19 +1,23 @@
-# Stenwick Scout — Windows sürümleri
+<p align="center"><strong>STENWICK SCOUT</strong><br>Bir sonraki oyununu bul.</p>
 
-[**En son sürümü indir →**](https://github.com/EmreGUNDOGAN/StenwickScout-surumler/releases/latest)
+<p align="center"><a href="https://github.com/EmreGUNDOGAN/StenwickScout-surumler/releases/latest"><strong>Windows için indir ↓</strong></a></p>
 
-Bu depo yalnız kurulum dosyalarını, SHA-256 kayıtlarını ve sürüm notlarını herkese açık sunar. Stenwick Scout'un kaynak kod deposu **private** kalır.
+Steam keşfi, kişisel kanal analizi, anahtar talepleri ve yayın planı için yerel çalışma alanı.
 
-## Kurulum
+## Windows kurulumu
 
-Release sayfasından `StenwickScout-Setup-0.4.5.exe` ve istersen `.exe.sha256` dosyasını indir. Program verileri `%APPDATA%\StenwickScout` içinde saklanır; kurulum ve kaldırma bu klasöre erişmez.
+Releases sayfasından `StenwickScout-Setup-0.4.6.exe` ve istersen `.exe.sha256` dosyasını indir. Eski taşınabilir programı kapat, kurulumu aç ve Başlat menüsünden Stenwick Scout'u çalıştır. Python ayrıca kurulmaz. Arayüz `http://127.0.0.1:8765/` adresinde açılır.
+
+Program dosyaları Program Files altında; verilerin `%APPDATA%\StenwickScout` klasöründedir. Kurulum ve kaldırma kullanıcı verilerini silmez. Daha önce bu klasöre taşınmış Google bağlantıları aynı Windows hesabıyla kullanılabilir.
 
 ## Güncellemeler
 
-Ayarlar'daki **Kontrol et** düğmesi en yeni sürümü anahtarsız sorgular. Kontrol etmek kurulum indirmez; yeni sürümü kurmak için ayrıca onay gerekir. Açık sürüm deposu için GitHub hesabı veya program içinde token gerekmez.
+Yeni sürüm Ayarlar yanında görünür. **Güncelle** demeden kurulum indirilmez. Onaydan sonra önce yedek alınır; kurulum SHA-256 ile doğrulanır. Kurulum yönetici izni ister ve uygulamayı yeniden açar. Yenile sürerken güncelleme başlamaz.
 
-17 Ekim 2026'da depo geçmişi ve v0.4.2–v0.4.5 paketleri gizli bilgi açısından tarandı. API anahtarları, Google OAuth dosyaları ve kullanıcı veritabanı bulunmadı. Bu tarama bütün güvenlik açıklarının olmadığına dair garanti değildir. Uygulama kodu setup'tan teknik olarak incelenebilir; kişisel anahtarlar pakette tutulmaz.
+## Bu depo
 
-Kurulum imzasızdır. Özellikler ve doğrulama sınırları her release açıklamasında yer alır.
+Bu depo kurulum dosyalarını, SHA-256 kayıtlarını ve sürüm açıklamalarını yayınlar. Kaynak kod deposu özeldir. GitHub token'ı, Google erişim dosyaları veya kullanıcı veritabanı bu depoya konmaz. Uygulamanın güncelleme kontrolü GitHub hesabı gerektirmez.
 
-made with ♥ by stenwick
+Kurulum imzasızdır; Windows yayıncıyı doğrulayamaz. Sürümün özellikleri ve doğrulama sınırları release açıklamasındadır.
+
+<p align="center">made with ♥ by stenwick</p>
