@@ -4,9 +4,13 @@
 
 Steam keşfi, kişisel kanal analizi, anahtar talepleri ve yayın planı için yerel çalışma alanı.
 
+## v1.1.0 — Kendi sonuçlarından öğrenen model
+
+Oyun başına ilk uygun videonun sonuçlarından öğrenen deneysel model, günlük karar/tahmin kaydı ve veri sağlığı kontrolleri. Model yeterli yeni sınama kanıtı olmadan ana puanı değiştirmez. Ayrıntılar ve doğrulama sınırları [v1.1.0 sürüm notlarında](https://github.com/EmreGUNDOGAN/StenwickScout-surumler/releases/tag/v1.1.0).
+
 ## Windows kurulumu
 
-Releases sayfasından `StenwickScout-Setup-1.0.4.exe` ve istersen `.exe.sha256` dosyasını indir. Eski taşınabilir programı kapat, kurulumu aç ve Başlat menüsünden Stenwick Scout'u çalıştır. Python ayrıca kurulmaz. Stenwick Scout kendi Windows penceresinde açılır; normal kullanımda tarayıcı sekmesi açılmaz. Mevcut tasarım korunur. İlk açılış büyütülmüştür; son pencere boyutu ve konumu sonraki açılışta hatırlanır.
+Releases sayfasından `StenwickScout-Setup-1.1.0.exe` ve istersen `.exe.sha256` dosyasını indir. Eski taşınabilir programı kapat, kurulumu aç ve Başlat menüsünden Stenwick Scout'u çalıştır. Python ayrıca kurulmaz. Stenwick Scout kendi Windows penceresinde açılır; normal kullanımda tarayıcı sekmesi açılmaz. Mevcut tasarım korunur. İlk açılış büyütülmüştür; son pencere boyutu ve konumu sonraki açılışta hatırlanır.
 
 Program dosyaları Program Files altında; verilerin `%APPDATA%\StenwickScout` klasöründedir. Kurulum ve kaldırma kullanıcı verilerini silmez. Daha önce bu klasöre taşınmış Google bağlantıları aynı Windows hesabıyla kullanılabilir.
 
