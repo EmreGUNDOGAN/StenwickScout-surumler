@@ -32,9 +32,13 @@ Alfred adı, hızlı sayfa yenileme, eğitim havuzu, öğrenmeden çıkarma, dah
 
 Alfred kılavuzu, yeni kanal önerileri penceresi, radar kontrolleri ve tutarlı öğrenme verileri. [Sürüm notları](https://github.com/EmreGUNDOGAN/StenwickScout-surumler/releases/tag/v1.3.2).
 
+## v1.3.3 — Tam oyunlardan öğrenen Alfred
+
+Tam oyunlardan öğrenme, otomatik eksik veri tamamlama, tarihli eğitim tablosu ve bildirim düzeni. [Sürüm notları](https://github.com/EmreGUNDOGAN/StenwickScout-surumler/releases/tag/v1.3.3).
+
 ## Windows kurulumu
 
-Releases sayfasından `StenwickScout-Setup-1.3.2.exe` ve istersen `.exe.sha256` dosyasını indir. Eski taşınabilir programı kapat, kurulumu aç ve Başlat menüsünden Stenwick Scout'u çalıştır. Python ayrıca kurulmaz. Stenwick Scout kendi Windows penceresinde açılır; normal kullanımda tarayıcı sekmesi açılmaz. Mevcut tasarım korunur. İlk açılış büyütülmüştür; son pencere boyutu ve konumu sonraki açılışta hatırlanır.
+Releases sayfasından `StenwickScout-Setup-1.3.3.exe` ve istersen `.exe.sha256` dosyasını indir. Eski taşınabilir programı kapat, kurulumu aç ve Başlat menüsünden Stenwick Scout'u çalıştır. Python ayrıca kurulmaz. Stenwick Scout kendi Windows penceresinde açılır; normal kullanımda tarayıcı sekmesi açılmaz. Mevcut tasarım korunur. İlk açılış büyütülmüştür; son pencere boyutu ve konumu sonraki açılışta hatırlanır.
 
 Program dosyaları Program Files altında; verilerin `%APPDATA%\StenwickScout` klasöründedir. Kurulum ve kaldırma kullanıcı verilerini silmez. Daha önce bu klasöre taşınmış Google bağlantıları aynı Windows hesabıyla kullanılabilir.
 
