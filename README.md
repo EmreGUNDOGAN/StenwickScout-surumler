@@ -20,9 +20,13 @@ Video performansı ve ilk 3/24 saat gözlemleri, puan değişim geçmişi, eski 
 
 Yalnız kanal önerisi araması, kalan kotayla ilerleme ve tek mail okuma izni uyarısı. Model ve kanal uygunluk şartları korunur. Ayrıntılar ve doğrulama sınırları [v1.2.2 sürüm notlarında](https://github.com/EmreGUNDOGAN/StenwickScout-surumler/releases/tag/v1.2.2).
 
+## v1.3.0 — Yeni arayüz ve sürdürülebilen taramalar
+
+Onaylanan kompakt arayüz, tarama duraklatma/devam, takip olayları, video performansları ve Alfred liste hazırlama düzeltmesi. [Sürüm notları](https://github.com/EmreGUNDOGAN/StenwickScout-surumler/releases/tag/v1.3.0).
+
 ## Windows kurulumu
 
-Releases sayfasından `StenwickScout-Setup-1.2.2.exe` ve istersen `.exe.sha256` dosyasını indir. Eski taşınabilir programı kapat, kurulumu aç ve Başlat menüsünden Stenwick Scout'u çalıştır. Python ayrıca kurulmaz. Stenwick Scout kendi Windows penceresinde açılır; normal kullanımda tarayıcı sekmesi açılmaz. Mevcut tasarım korunur. İlk açılış büyütülmüştür; son pencere boyutu ve konumu sonraki açılışta hatırlanır.
+Releases sayfasından `StenwickScout-Setup-1.3.0.exe` ve istersen `.exe.sha256` dosyasını indir. Eski taşınabilir programı kapat, kurulumu aç ve Başlat menüsünden Stenwick Scout'u çalıştır. Python ayrıca kurulmaz. Stenwick Scout kendi Windows penceresinde açılır; normal kullanımda tarayıcı sekmesi açılmaz. Mevcut tasarım korunur. İlk açılış büyütülmüştür; son pencere boyutu ve konumu sonraki açılışta hatırlanır.
 
 Program dosyaları Program Files altında; verilerin `%APPDATA%\StenwickScout` klasöründedir. Kurulum ve kaldırma kullanıcı verilerini silmez. Daha önce bu klasöre taşınmış Google bağlantıları aynı Windows hesabıyla kullanılabilir.
 
