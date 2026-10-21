@@ -44,9 +44,13 @@ Eksik ilk hafta verileri için hedefli Analytics düğmesi, kota hata bildirimi 
 
 Puan ve Puan 2 yanında ayrı Alfred öneri denemesi, m1 kat gösterimi, JSON tanılaması, Watchlist ve 7/1 gün hatırlatmaları. Yeni öneri yöntemi henüz bağımsız başarı sınamasını geçmemiştir. [Sürüm notları](https://github.com/EmreGUNDOGAN/StenwickScout-surumler/releases/tag/v1.3.5).
 
+## v1.3.6 — Alfred dayanakları ve keşif düzeni
+
+7 gün / 20 inceleme ilgi eşiği, açıklanabilir Alfred, kategori bildirim temizliği, demo/radar/Watchlist tasarımları ve kontrollü model karşılaştırmaları. Gerçek öneri başarısı için bağımsız yeni kanıt bekleniyor. [Sürüm notları](https://github.com/EmreGUNDOGAN/StenwickScout-surumler/releases/tag/v1.3.6).
+
 ## Windows kurulumu
 
-Releases sayfasından `StenwickScout-Setup-1.3.5.exe` ve istersen `.exe.sha256` dosyasını indir. Eski taşınabilir programı kapat, kurulumu aç ve Başlat menüsünden Stenwick Scout'u çalıştır. Python ayrıca kurulmaz. Stenwick Scout kendi Windows penceresinde açılır; normal kullanımda tarayıcı sekmesi açılmaz. Mevcut tasarım korunur. İlk açılış büyütülmüştür; son pencere boyutu ve konumu sonraki açılışta hatırlanır.
+Releases sayfasından `StenwickScout-Setup-1.3.6.exe` ve istersen `.exe.sha256` dosyasını indir. Eski taşınabilir programı kapat, kurulumu aç ve Başlat menüsünden Stenwick Scout'u çalıştır. Python ayrıca kurulmaz. Stenwick Scout kendi Windows penceresinde açılır; normal kullanımda tarayıcı sekmesi açılmaz. Mevcut tasarım korunur. İlk açılış büyütülmüştür; son pencere boyutu ve konumu sonraki açılışta hatırlanır.
 
 Program dosyaları Program Files altında; verilerin `%APPDATA%\StenwickScout` klasöründedir. Kurulum ve kaldırma kullanıcı verilerini silmez. Daha önce bu klasöre taşınmış Google bağlantıları aynı Windows hesabıyla kullanılabilir.
 
