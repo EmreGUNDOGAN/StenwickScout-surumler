@@ -56,9 +56,13 @@ Hızlı ilk katalog, son hazır sayfa bilgisi, saatlik Watchlist kontrolü, Alfr
 
 Claude tasarımları, liste değişimleri ve bildirim düzeni güncel 1.3.7 temeli üzerine eklendi. Görünür güncelleme ilerlemesi ve yeniden açılış kontrolleri getirildi. [Sürüm notları](https://github.com/EmreGUNDOGAN/StenwickScout-surumler/releases/tag/v1.3.8).
 
+## v1.3.9 — Kalıcı keşif ve yeni Alfred ekranları
+
+Kalıcı keşif kuyruğu, son 90 gün kapsamı, tarama raporu ve Claude Taslak 57–63 ekranları eklendi. PU sıralaması, küratör liste kontrolü, Ayarlar ve tepsi çıkışı düzeltmeleri içerir. [Sürüm notları](https://github.com/EmreGUNDOGAN/StenwickScout-surumler/releases/tag/v1.3.9).
+
 ## Windows kurulumu
 
-Releases sayfasından `StenwickScout-Setup-1.3.8.exe` ve istersen `.exe.sha256` dosyasını indir. Eski taşınabilir programı kapat, kurulumu aç ve Başlat menüsünden Stenwick Scout'u çalıştır. Python ayrıca kurulmaz. Stenwick Scout kendi Windows penceresinde açılır; normal kullanımda tarayıcı sekmesi açılmaz. Mevcut tasarım korunur. İlk açılış büyütülmüştür; son pencere boyutu ve konumu sonraki açılışta hatırlanır.
+Releases sayfasından `StenwickScout-Setup-1.3.9.exe` ve istersen `.exe.sha256` dosyasını indir. Eski taşınabilir programı kapat, kurulumu aç ve Başlat menüsünden Stenwick Scout'u çalıştır. Python ayrıca kurulmaz. Stenwick Scout kendi Windows penceresinde açılır; normal kullanımda tarayıcı sekmesi açılmaz. Mevcut tasarım korunur. İlk açılış büyütülmüştür; son pencere boyutu ve konumu sonraki açılışta hatırlanır.
 
 Program dosyaları Program Files altında; verilerin `%APPDATA%\StenwickScout` klasöründedir. Kurulum ve kaldırma kullanıcı verilerini silmez. Daha önce bu klasöre taşınmış Google bağlantıları aynı Windows hesabıyla kullanılabilir.
 
