@@ -64,9 +64,13 @@ Kalıcı keşif kuyruğu, son 90 gün kapsamı, tarama raporu ve Claude Taslak 5
 
 Claude Taslak 64–80 ekranları, oyun gizleme ve veri engelleri, Alfred öncelikli 500 oyunluk e-posta araması, otomatik Watchlist ve yeni çıkış filtreleri eklendi. Alfred açıklamaları, bildirim seçimi, arama ve tarama devamı düzeltmeleri içerir. [Sürüm notları](https://github.com/EmreGUNDOGAN/StenwickScout-surumler/releases/tag/v1.3.10).
 
+## v1.3.11 — Bellek ve Alfred performansı
+
+Alfred raporlarında gereksiz katalog yüklemeleri kaldırıldı; bağımsız veri kopyalarını koruyan katalog önbelleğiyle bellek tüketimi ve açılış süresi iyileştirildi. [Sürüm notları](https://github.com/EmreGUNDOGAN/StenwickScout-surumler/releases/tag/v1.3.11).
+
 ## Windows kurulumu
 
-Releases sayfasından `StenwickScout-Setup-1.3.10.exe` ve istersen `.exe.sha256` dosyasını indir. Eski taşınabilir programı kapat, kurulumu aç ve Başlat menüsünden Stenwick Scout'u çalıştır. Python ayrıca kurulmaz. Stenwick Scout kendi Windows penceresinde açılır; normal kullanımda tarayıcı sekmesi açılmaz. Mevcut tasarım korunur. İlk açılış büyütülmüştür; son pencere boyutu ve konumu sonraki açılışta hatırlanır.
+Releases sayfasından `StenwickScout-Setup-1.3.11.exe` ve istersen `.exe.sha256` dosyasını indir. Eski taşınabilir programı kapat, kurulumu aç ve Başlat menüsünden Stenwick Scout'u çalıştır. Python ayrıca kurulmaz. Stenwick Scout kendi Windows penceresinde açılır; normal kullanımda tarayıcı sekmesi açılmaz. Mevcut tasarım korunur. İlk açılış büyütülmüştür; son pencere boyutu ve konumu sonraki açılışta hatırlanır.
 
 Program dosyaları Program Files altında; verilerin `%APPDATA%\StenwickScout` klasöründedir. Kurulum ve kaldırma kullanıcı verilerini silmez. Daha önce bu klasöre taşınmış Google bağlantıları aynı Windows hesabıyla kullanılabilir.
 
