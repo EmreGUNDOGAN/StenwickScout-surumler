@@ -72,9 +72,13 @@ Alfred raporlarında gereksiz katalog yüklemeleri kaldırıldı; bağımsız ve
 
 Günlük kanal izlenme artışı ve doğrulanabilir beğeni hesabı, anlık Alfred tercihleri, güvenli tarama devamı, daha az tekrarlanan mail istekleri ve Claude 81–88 tasarımları. [Sürüm notları](https://github.com/EmreGUNDOGAN/StenwickScout-surumler/releases/tag/v1.3.12).
 
+## v1.3.13 — Çekim planı ve güvenilirlik
+
+Çekim planı ve fikir kutusu, dört adımlı yayın takibi, anahtar eşleştirme tasarımı, radar ölçüm ve logo tamamlama, beş dakikalık mail kontrolü, kalıcı talep geçmişi ve kapanış/bellek düzeltmeleri. [Sürüm notları](https://github.com/EmreGUNDOGAN/StenwickScout-surumler/releases/tag/v1.3.13).
+
 ## Windows kurulumu
 
-Releases sayfasından `StenwickScout-Setup-1.3.12.exe` ve istersen `.exe.sha256` dosyasını indir. Eski taşınabilir programı kapat, kurulumu aç ve Başlat menüsünden Stenwick Scout'u çalıştır. Python ayrıca kurulmaz. Stenwick Scout kendi Windows penceresinde açılır; normal kullanımda tarayıcı sekmesi açılmaz. Mevcut tasarım korunur. İlk açılış büyütülmüştür; son pencere boyutu ve konumu sonraki açılışta hatırlanır.
+Releases sayfasından `StenwickScout-Setup-1.3.13.exe` ve istersen `.exe.sha256` dosyasını indir. Eski taşınabilir programı kapat, kurulumu aç ve Başlat menüsünden Stenwick Scout'u çalıştır. Python ayrıca kurulmaz. Stenwick Scout kendi Windows penceresinde açılır; normal kullanımda tarayıcı sekmesi açılmaz. Mevcut tasarım korunur. İlk açılış büyütülmüştür; son pencere boyutu ve konumu sonraki açılışta hatırlanır.
 
 Program dosyaları Program Files altında; verilerin `%APPDATA%\StenwickScout` klasöründedir. Kurulum ve kaldırma kullanıcı verilerini silmez. Daha önce bu klasöre taşınmış Google bağlantıları aynı Windows hesabıyla kullanılabilir.
 
