@@ -88,9 +88,13 @@ Setup öncesinde Scout ve bağlı WebView2 süreçlerinin tamamen kapanması; Re
 
 Reviews içinde akışla gelen GPT metninin doğru toplanması ve ChatGPT giriş hatalarının açık biçimde gösterilmesi. Tamamlanmamış yanıtlar ve kota hatalarında mevcut taslak korunur; otomatik yeniden üretim yapılmaz. [Sürüm notları](https://github.com/EmreGUNDOGAN/StenwickScout-surumler/releases/tag/v1.3.16).
 
+## v1.3.17 — Günlük abone sıralaması ve kasadaki oyunlar
+
+Günlük abone artışı sıralaması, son 14 uygun uzun videoya göre medyan beğeni oranı, Key kasasında oyun görünümü ve oyun panelinin X ile kapanma düzeltmesi. [Sürüm notları](https://github.com/EmreGUNDOGAN/StenwickScout-surumler/releases/tag/v1.3.17).
+
 ## Windows kurulumu
 
-Releases sayfasından `StenwickScout-Setup-1.3.16.exe` ve istersen `.exe.sha256` dosyasını indir. Eski taşınabilir programı kapat, kurulumu aç ve Başlat menüsünden Stenwick Scout'u çalıştır. Python ayrıca kurulmaz. Stenwick Scout kendi Windows penceresinde açılır; normal kullanımda tarayıcı sekmesi açılmaz. Mevcut tasarım korunur. İlk açılış büyütülmüştür; son pencere boyutu ve konumu sonraki açılışta hatırlanır.
+Releases sayfasından `StenwickScout-Setup-1.3.17.exe` ve istersen `.exe.sha256` dosyasını indir. Eski taşınabilir programı kapat, kurulumu aç ve Başlat menüsünden Stenwick Scout'u çalıştır. Python ayrıca kurulmaz. Stenwick Scout kendi Windows penceresinde açılır; normal kullanımda tarayıcı sekmesi açılmaz. Mevcut tasarım korunur. İlk açılış büyütülmüştür; son pencere boyutu ve konumu sonraki açılışta hatırlanır.
 
 Program dosyaları Program Files altında; verilerin `%APPDATA%\StenwickScout` klasöründedir. Kurulum ve kaldırma kullanıcı verilerini silmez. Daha önce bu klasöre taşınmış Google bağlantıları aynı Windows hesabıyla kullanılabilir.
 
