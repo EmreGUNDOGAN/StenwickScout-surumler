@@ -84,9 +84,13 @@ Türkçe nottan kişisel İngilizce Reviews taslağı için ChatGPT kopyala/yap�
 
 Setup öncesinde Scout ve bağlı WebView2 süreçlerinin tamamen kapanması; Reviews içinde Türkçe nottan 20 tarz örneğiyle İngilizce GPT taslağı. ChatGPT planıyla bağlantı hesap/istemci uygunluğuna bağlıdır; ilk giriş ve izin kullanıcı tarafından tamamlanır. [Sürüm notları](https://github.com/EmreGUNDOGAN/StenwickScout-surumler/releases/tag/v1.3.15).
 
+## v1.3.16 — GPT yorum akışı ve giriş açıklamaları
+
+Reviews içinde akışla gelen GPT metninin doğru toplanması ve ChatGPT giriş hatalarının açık biçimde gösterilmesi. Tamamlanmamış yanıtlar ve kota hatalarında mevcut taslak korunur; otomatik yeniden üretim yapılmaz. [Sürüm notları](https://github.com/EmreGUNDOGAN/StenwickScout-surumler/releases/tag/v1.3.16).
+
 ## Windows kurulumu
 
-Releases sayfasından `StenwickScout-Setup-1.3.15.exe` ve istersen `.exe.sha256` dosyasını indir. Eski taşınabilir programı kapat, kurulumu aç ve Başlat menüsünden Stenwick Scout'u çalıştır. Python ayrıca kurulmaz. Stenwick Scout kendi Windows penceresinde açılır; normal kullanımda tarayıcı sekmesi açılmaz. Mevcut tasarım korunur. İlk açılış büyütülmüştür; son pencere boyutu ve konumu sonraki açılışta hatırlanır.
+Releases sayfasından `StenwickScout-Setup-1.3.16.exe` ve istersen `.exe.sha256` dosyasını indir. Eski taşınabilir programı kapat, kurulumu aç ve Başlat menüsünden Stenwick Scout'u çalıştır. Python ayrıca kurulmaz. Stenwick Scout kendi Windows penceresinde açılır; normal kullanımda tarayıcı sekmesi açılmaz. Mevcut tasarım korunur. İlk açılış büyütülmüştür; son pencere boyutu ve konumu sonraki açılışta hatırlanır.
 
 Program dosyaları Program Files altında; verilerin `%APPDATA%\StenwickScout` klasöründedir. Kurulum ve kaldırma kullanıcı verilerini silmez. Daha önce bu klasöre taşınmış Google bağlantıları aynı Windows hesabıyla kullanılabilir.
 
