@@ -96,9 +96,13 @@ Günlük abone artışı sıralaması, son 14 uygun uzun videoya göre medyan be
 
 Tam Steam başlangıç kaydıyla yeni sayfa karşılaştırması, etiketlere göre keşif, elle etiket tercihleri, toplu tam etiket okuma ve güncelleme klasör kilidi düzeltmesi. [Sürüm notları](https://github.com/EmreGUNDOGAN/StenwickScout-surumler/releases/tag/v1.3.18).
 
+## v1.3.19 — Alfred, kalite ve günlük sıralama
+
+Alfred etiket kombosu ve kalite dayanağı, Kalite 75+ filtresi, dar pencere düzeni, günlük izlenme/abone sıralama kartları ve panel bağlantı hatalarında tekrar deneme. [Sürüm notları](https://github.com/EmreGUNDOGAN/StenwickScout-surumler/releases/tag/v1.3.19).
+
 ## Windows kurulumu
 
-Releases sayfasından `StenwickScout-Setup-1.3.18.exe` ve istersen `.exe.sha256` dosyasını indir. Eski taşınabilir programı kapat, kurulumu aç ve Başlat menüsünden Stenwick Scout'u çalıştır. Python ayrıca kurulmaz. Stenwick Scout kendi Windows penceresinde açılır; normal kullanımda tarayıcı sekmesi açılmaz. Mevcut tasarım korunur. İlk açılış büyütülmüştür; son pencere boyutu ve konumu sonraki açılışta hatırlanır.
+Releases sayfasından `StenwickScout-Setup-1.3.19.exe` ve istersen `.exe.sha256` dosyasını indir. Eski taşınabilir programı kapat, kurulumu aç ve Başlat menüsünden Stenwick Scout'u çalıştır. Python ayrıca kurulmaz. Stenwick Scout kendi Windows penceresinde açılır; normal kullanımda tarayıcı sekmesi açılmaz. Mevcut tasarım korunur. İlk açılış büyütülmüştür; son pencere boyutu ve konumu sonraki açılışta hatırlanır.
 
 Program dosyaları Program Files altında; verilerin `%APPDATA%\StenwickScout` klasöründedir. Kurulum ve kaldırma kullanıcı verilerini silmez. Daha önce bu klasöre taşınmış Google bağlantıları aynı Windows hesabıyla kullanılabilir.
 
