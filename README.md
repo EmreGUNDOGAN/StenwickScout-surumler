@@ -104,9 +104,13 @@ Alfred etiket kombosu ve kalite dayanağı, Kalite 75+ filtresi, dar pencere dü
 
 Steam incelemelerini 50 oyunluk partilerde okuma, tam taramadan ayrı e-posta araması, YouTube tekrar arama ve Shorts ayrımı, özel sayfalarda sayfadan ayrılmadan oyun paneli. [Sürüm notları](https://github.com/EmreGUNDOGAN/StenwickScout-surumler/releases/tag/v1.3.20).
 
+## v1.3.21 — Takvim düzenleme ve oyun paneli
+
+Çekim takviminde düzenleme, Alfred tanı hızlandırması, radar Watchlist düğmeleri, panel üst düzeni ve Gmail konuşma bağlantıları. [Sürüm notları](https://github.com/EmreGUNDOGAN/StenwickScout-surumler/releases/tag/v1.3.21).
+
 ## Windows kurulumu
 
-Releases sayfasından `StenwickScout-Setup-1.3.20.exe` ve istersen `.exe.sha256` dosyasını indir. Eski taşınabilir programı kapat, kurulumu aç ve Başlat menüsünden Stenwick Scout'u çalıştır. Python ayrıca kurulmaz. Stenwick Scout kendi Windows penceresinde açılır; normal kullanımda tarayıcı sekmesi açılmaz. Mevcut tasarım korunur. İlk açılış büyütülmüştür; son pencere boyutu ve konumu sonraki açılışta hatırlanır.
+Releases sayfasından `StenwickScout-Setup-1.3.21.exe` ve istersen `.exe.sha256` dosyasını indir. Eski taşınabilir programı kapat, kurulumu aç ve Başlat menüsünden Stenwick Scout'u çalıştır. Python ayrıca kurulmaz. Stenwick Scout kendi Windows penceresinde açılır; normal kullanımda tarayıcı sekmesi açılmaz. Mevcut tasarım korunur. İlk açılış büyütülmüştür; son pencere boyutu ve konumu sonraki açılışta hatırlanır.
 
 Program dosyaları Program Files altında; verilerin `%APPDATA%\StenwickScout` klasöründedir. Kurulum ve kaldırma kullanıcı verilerini silmez. Daha önce bu klasöre taşınmış Google bağlantıları aynı Windows hesabıyla kullanılabilir.
 
