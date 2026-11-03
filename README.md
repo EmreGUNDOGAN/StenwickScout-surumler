@@ -112,9 +112,13 @@ Steam incelemelerini 50 oyunluk partilerde okuma, tam taramadan ayrı e-posta ar
 
 Pazar radarı > Sıralamam'da günlük izlenme ve abone artışı ölçümleri düzeltildi. Gece yenilemesi ertesi günün ölçümünü engellemez; arayüz tasarımı korunur. [Sürüm notları](https://github.com/EmreGUNDOGAN/StenwickScout-surumler/releases/tag/v1.3.23).
 
+## v1.3.24 — Onaylı tasarımlar bir arada
+
+Liste, oyun paneli, üst çubuk, Steam popüler, Radar, takip ve planlama ekranları, Alfred/Analiz/Küratör/Reviews, Ayarlar ve güncelleme penceresi yenilendi. Talep silme ve silinen talep izi eklendi; mail kontrolü otomatik “Anahtar alındı” işaretinden ayrıldı. [Sürüm notları](https://github.com/EmreGUNDOGAN/StenwickScout-surumler/releases/tag/v1.3.24).
+
 ## Windows kurulumu
 
-Releases sayfasından `StenwickScout-Setup-1.3.23.exe` ve istersen `.exe.sha256` dosyasını indir. Eski taşınabilir programı kapat, kurulumu aç ve Başlat menüsünden Stenwick Scout'u çalıştır. Python ayrıca kurulmaz. Stenwick Scout kendi Windows penceresinde açılır; normal kullanımda tarayıcı sekmesi açılmaz. Mevcut tasarım korunur. İlk açılış büyütülmüştür; son pencere boyutu ve konumu sonraki açılışta hatırlanır.
+Releases sayfasından `StenwickScout-Setup-1.3.24.exe` ve istersen `.exe.sha256` dosyasını indir. Eski taşınabilir programı kapat, kurulumu aç ve Başlat menüsünden Stenwick Scout'u çalıştır. Python ayrıca kurulmaz. Stenwick Scout kendi Windows penceresinde açılır; normal kullanımda tarayıcı sekmesi açılmaz. Onaylı yeni ekranlar bu sürümde birlikte sunulur. İlk açılış büyütülmüştür; son pencere boyutu ve konumu sonraki açılışta hatırlanır.
 
 Program dosyaları Program Files altında; verilerin `%APPDATA%\StenwickScout` klasöründedir. Kurulum ve kaldırma kullanıcı verilerini silmez. Daha önce bu klasöre taşınmış Google bağlantıları aynı Windows hesabıyla kullanılabilir.
 
